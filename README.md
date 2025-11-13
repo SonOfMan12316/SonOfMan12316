@@ -1,7 +1,7 @@
 ## Hello 👋🏻 I'm Charles
 
 
-Software Engineer with 4 years of experience building web applications using HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express, MongoDB, FireBase, Supabase. 
+Software Engineer with 4 years of experience building web applications using HTML, CSS, JavaScript, React.js, Next.js, Node.js, Nest.js, Express, MongoDB, FireBase, Supabase. 
 
 - 🔭 I’m currently working on Clohea a cloud health product whose MVP is currently in progress and would go live late Q4
 - 🧠 Take a peek at my [Portfolio](https://emanyo-charles.vercel.app/) and see what I've been up to.
